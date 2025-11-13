@@ -3,7 +3,9 @@
 This repository contains intermediate Python projects for practice and learning. It includes:
 
 1 - **Library management**
+
 2 - **Geometric Shapes Calculator and Drawer**
+
 ---
 
 ## Files in this project
