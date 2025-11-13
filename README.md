@@ -24,7 +24,7 @@ A simple **Python Object-Oriented Library Management System** that allows users 
 
 A **Python-based geometric shape calculator** that can compute **area**, **perimeter**, and **draw** different shapes using the `turtle` graphics module.
 
-## Features
+**Features**
 
 Supports four geometric shapes:
 - **Square**
@@ -37,7 +37,7 @@ Each shape can:
 - Calculate **perimeter**
 - **Draw** itself on a Turtle graphics window
 
-## Triangle Calculation Logic
+**Triangle Calculation Logic**
 
 The `triangle_shape` class supports multiple ways to define a triangle:
 
@@ -57,7 +57,7 @@ It also includes:
 - `calculate_area()` → Uses Heron’s formula or base×height/2  
 - `calculate_perimeter()` → Sum of all sides  
 
-## Turtle Drawing Logic
+**Turtle Drawing Logic**
 
 Each shape has its own `drawing_shape(pen)` method.  
 The Turtle window (`turtle.Screen()`) is created **only once** in the program.  
